@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.58
+
+### Patch Changes
+
+- 26893b0: Allow first argument to fetch in load to be a request
+
 ## 1.0.0-next.57
 
 ### Patch Changes
